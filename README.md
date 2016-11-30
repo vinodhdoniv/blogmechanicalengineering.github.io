@@ -1,2 +1,2 @@
-# blogmechanicalengineering.github.io
-blog mechanicalengineering
+# vinodhdoniv.github.io
+gate-ies
